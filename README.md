@@ -1,7 +1,7 @@
 
 ---
 
-### 6. [GeofenceAndFriends](https://github.com/Elemolio/GeofenceAndFriends)
+[GeofenceAndFriends](https://github.com/Elemolio/GeofenceAndFriends)
 
 ```markdown
 # Geofence and Friends
