@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "538346142441",
+    "firebase_url": "https://humo-10522-default-rtdb.firebaseio.com",
+    "project_id": "humo-10522",
+    "storage_bucket": "humo-10522.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538346142441:android:2c7c1a9168f47eef6d8e78",
+        "android_client_info": {
+          "package_name": "com.example.geofencyandfriends"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdJyvfEJh52ENJ5v0C7wl49ODksPmB_2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
